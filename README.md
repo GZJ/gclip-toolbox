@@ -14,3 +14,7 @@ Use the `gpaste` command to paste files to the current directory:
 You can also specify destination directories when pasting files:
 
 ```gpaste [dir1] [dir2]```
+
+Paste images to current directory with the `gpaste-image` command:
+
+```gpaste-image [image name]```
